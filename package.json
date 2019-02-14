@@ -1,5 +1,5 @@
 {
-  "name": "scraper-ruc-sunat",
+  "name": "srs01",
   "version": "1.2.2",
   "description": "A basic scraper to get information by RUC from SUNAT website",
   "main": "lib/index",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eliacer95/scraper-ruc-sunat.git"
+    "url": "https://github.com/paaq0659342/srs01/"
   },
   "keywords": [
     "SUNAT",
     "scraper",
     "RUC"
   ],
-  "author": "Eliacer Fernandez Guevara",
+  "author": "pa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eliacer95/scraper-ruc-sunat/issues"
+    "url": "https://github.com/paaq0659342/srs01/issues"
   },
-  "homepage": "https://github.com/eliacer95/scraper-ruc-sunat#readme",
+  "homepage": "https://github.com/paaq0659342/srs01/#readme",
   "dependencies": {
     "cheerio": "^0.20.0",
     "request": "^2.72.0",
